@@ -1,0 +1,10 @@
+Host-GPU memory scatter-gather test
+GPUs: 2
+Data size: 100.00 MB
+Repetitions: 100
+
+Enabling peer-to-peer access
+Scatter (Host to all GPUs): Mean 28648.62 MB/s (3.490570 ms), Max 29456.12 MB/s (3.394880 ms)
+Raw: 3.394880, 3.586260
+Gather (all GPUs to Host): Mean 19054.22 MB/s (5.248180 ms), Max 27978.84 MB/s (3.574130 ms)
+Raw: 3.574130, 6.922230

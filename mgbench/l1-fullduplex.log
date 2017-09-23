@@ -1,0 +1,7 @@
+Inter-GPU bi-directional memory exhange test
+Enabling peer-to-peer access
+GPUs: 2
+Data size: 100.00 MB
+Repetitions: 100
+
+Exchanging between GPU 0 and GPU 1: 11094.20 MB/s (9.013720 ms)

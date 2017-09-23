@@ -1,0 +1,14 @@
+Running Matrix Multiplication with 2 GPUs, starting with 1 GPUs
+Testing with 1 GPUs
+--------------------
+
+SGEMM - MAPS (unmodified routine): 14.865081 ms
+TEST passed
+
+Testing with 2 GPUs
+--------------------
+
+SGEMM - MAPS (unmodified routine): 14.891990 ms
+TEST passed
+
+Overall: OK

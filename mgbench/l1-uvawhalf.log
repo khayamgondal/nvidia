@@ -1,0 +1,13 @@
+Inter-GPU DMA uni-directional exchange test
+Enabling peer-to-peer access
+GPUs: 2 (+ host)
+Data size: 100.00 MB
+Data type size: 4 bytes
+Block size: 32
+Access type: Coalesced
+Repetitions: 100
+
+Copying from GPU 0 to host: 31821.29 MB/s (3.142550 ms)
+Copying from GPU 1 to host: 20846.62 MB/s (4.796940 ms)
+Copying from GPU 1 to GPU 0: No DMA
+Copying from GPU 0 to GPU 1: No DMA

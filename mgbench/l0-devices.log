@@ -1,0 +1,42 @@
+Driver version: 8.0
+Runtime version: 8.0
+
+GPU 1: Tesla P100-SXM2-16GB (2/1/0)
+Compute capability: sm_60
+Global memory: 16280.8 MB
+Constant memory: 65536 bytes
+Shared memory: 49152 bytes
+Registers: 65536
+Warp size: 32
+Multiprocessors: 56
+Copy engines: 2
+Clock rate: 1.4805 GHz
+Threads per MP: 2048
+Threads per block: 1024
+Max block size: 1024x1024x64
+Max grid size: 2147483647x65535x65535
+Pitch: 2147483647 bytes
+Caps: ecc overlap uva hostdma surfaceAlignment 
+
+GPU 2: Tesla P100-SXM2-16GB (6/1/0)
+Compute capability: sm_60
+Global memory: 16280.8 MB
+Constant memory: 65536 bytes
+Shared memory: 49152 bytes
+Registers: 65536
+Warp size: 32
+Multiprocessors: 56
+Copy engines: 2
+Clock rate: 1.4805 GHz
+Threads per MP: 2048
+Threads per block: 1024
+Max block size: 1024x1024x64
+Max grid size: 2147483647x65535x65535
+Pitch: 2147483647 bytes
+Caps: ecc overlap uva hostdma surfaceAlignment 
+
+DMA access: 
+   |  1  2 
+---+------
+ 1 |  x  0 
+ 2 |  0  x 

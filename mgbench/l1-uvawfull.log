@@ -1,0 +1,10 @@
+Inter-GPU DMA bi-directional exchange test
+Enabling peer-to-peer access
+GPUs: 2 (+ host)
+Data size: 100.00 MB
+Data type size: 4 bytes
+Block size: 32
+Access type: Coalesced
+Repetitions: 100
+
+Exchanging between GPU 0 and GPU 1: No DMA

@@ -1,0 +1,12 @@
+Inter-GPU uni-directional memory transfer test
+Enabling peer-to-peer access
+GPUs: 2
+Data size: 100.00 MB
+Repetitions: 100
+
+Copying from host to GPU 0: 30502.03 MB/s (3.278470 ms)
+Copying from host to GPU 1: 28408.12 MB/s (3.520120 ms)
+Copying from GPU 0 to host: 28569.80 MB/s (3.500200 ms)
+Copying from GPU 0 to GPU 1: 18792.82 MB/s (5.321180 ms)
+Copying from GPU 1 to host: 20820.06 MB/s (4.803060 ms)
+Copying from GPU 1 to GPU 0: 19817.05 MB/s (5.046160 ms)

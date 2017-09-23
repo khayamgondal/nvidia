@@ -1,0 +1,25 @@
+
+GPU 0
+===========
+Running Game of Life with 1 GPUs, starting with 1 GPUs
+Testing with 1 GPUs
+--------------------
+
+GoL - MAPS: 8.981199 ms
+MAPS-Multi: Done!
+Comparing with CPU...
+Comparison OK: Errors: 0
+
+Overall: Test passed
+GPU 1
+===========
+Running Game of Life with 1 GPUs, starting with 1 GPUs
+Testing with 1 GPUs
+--------------------
+
+GoL - MAPS: 8.094800 ms
+MAPS-Multi: Done!
+Comparing with CPU...
+Comparison OK: Errors: 0
+
+Overall: Test passed
